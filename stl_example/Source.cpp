@@ -24,7 +24,7 @@
 
 
 
-/*template <typename T>
+template <typename T>
 class Kutu {
     T deger;
 public:
@@ -39,7 +39,7 @@ int main() {
     std::cout << "intKutu: " << intKutu.getDeger() << std::endl;
     std::cout << "doubleKutu: " << doubleKutu.getDeger() << std::endl;
     return 0;
-}*/
+}
 
 /*int main() {
     std::vector<int> sayilar = { 5, 3, 1, 4, 2 };
